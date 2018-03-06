@@ -24,6 +24,8 @@ class Multiconjunto{
         // Vector de almacenamiento de elementos
         int num;
         // Indica el número de elementos en el multiconjunto
+        int aeliminar=0;
+        //Variable para elimina
         };
 
 #endif // MC_H_INCLUDED
