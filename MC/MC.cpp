@@ -1,7 +1,6 @@
 #include "MC.h"
 #include <iostream>
 using namespace std;
-#include <new>
 
 template <typename T> Multiconjunto<T>::Multiconjunto()
 {
